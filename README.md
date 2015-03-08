@@ -17,16 +17,12 @@ loopMIDI: http://www.tobias-erichsen.de/software/loopmidi.html
 
 Required hardware:
 
-Xbox 360 control pad (wired or wireless)
-
-Wireless Gaming Receiver For Windows (if you're using a wireless pad obviously)
-
-Computer running Windows 8.
+- Xbox 360 control pad (wired or wireless)
+- Wireless Gaming Receiver For Windows (if you're using a wireless pad obviously)
+- Computer running Windows 8.
 
 FAQs
-
 Q: Why use an Xbox 360 control pad with Ableton?
-
 A: The 2 analogue thumbsticks and multiple buttons and triggers allow for a lot of controling options which therefore works well with Ableton Live's mapability. So why not?
 
 Version information:
