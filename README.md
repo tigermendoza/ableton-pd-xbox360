@@ -6,6 +6,8 @@ This is my attempt at creating an interface so that I can use an Xbox 360 contro
 
 Note: So far I have only tested this set up on a x64, Windows 8.1 based system running Ableton 9 suite. It *should* work fine on similar set ups I haven't been able to test it on any other machines yet so no guarantees.
 
+I should say that this script was HEAVILY based on Leonard J. Paul's USB Controller script which you can find at http://www.ecuad.ca/~lpaul/FinalProjects2/. The main difference was that I wanted to split the 4 directions of each thumbstick in to individual cc controls and also add mappings for all of the standard Xbox 360 control pad buttons.
+
 Required software:
 
 - Pure Data extended: http://puredata.info/downloads/pd-extended
@@ -20,8 +22,8 @@ Required hardware:
 
 FAQs
 - Q: Why use an Xbox 360 control pad with Ableton?
-	- A: The 2 analogue thumbsticks and multiple buttons and triggers allow for a lot of controling options which therefore works well with Ableton Live's mapability. So why not?
-
+	- A: The 2 analogue thumbsticks and multiple buttons and triggers allow for a lot of controling options which therefore works well with Ableton Live's mapability. So why not?	
+	
 Version information:
 
 0.1
