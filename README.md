@@ -20,7 +20,7 @@ Required hardware:
 
 FAQs
 - Q: Why use an Xbox 360 control pad with Ableton?
-A: The 2 analogue thumbsticks and multiple buttons and triggers allow for a lot of controling options which therefore works well with Ableton Live's mapability. So why not?
+	- A: The 2 analogue thumbsticks and multiple buttons and triggers allow for a lot of controling options which therefore works well with Ableton Live's mapability. So why not?
 
 Version information:
 
