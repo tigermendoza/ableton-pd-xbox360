@@ -1,0 +1,36 @@
+Xbox 360 control pad to Ableton Live with Pure Data 
+
+Default mappings
+
+Inroduction
+These are the Xbox controller to midi mappings used in the sample project and the Pure Data scripts.
+
+Note: All cc and note values use midi channel 13.
+
+Analogue controls:
+Left thumb stick up: 		1
+Left thumb stick right: 	2
+Left thumb stick down: 		3
+Left thumb stick left: 		4
+
+Right thumb stick up: 		5
+Right thumb stick right: 	6
+Right thumb stick down: 	7
+Right thumb stick left: 	8
+
+Left trigger:				9
+Right trigger: 				10
+
+Buttons:
+A button:					E3
+B button:					F3
+Y button:					F#3
+X button:					G3
+LB button:					G2
+RB button:					G#2
+Back button:				A2
+Start button:				A#2
+
+Version control
+0.1
+- First draft
