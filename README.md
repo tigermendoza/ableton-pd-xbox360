@@ -26,6 +26,12 @@ FAQs
 	
 Version information:
 
+1.0
+- Joypad dead zone FINALLY implemented!!!
+- As well as standard version (NoModes), there is a new version (Modes) which adds the ability to use the left and right bumper buttons to activate / deactivate controls on 2 different FX racks.
+- Updated standard example ableton set ("Modes")
+- New example set for "No Modes" set up
+
 0.1
 - First public release
 	- Pure Data scripts for the interface and creating the mappings in Ableton Live
